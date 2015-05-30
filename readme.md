@@ -9,4 +9,4 @@ This script allows you to quickly create an apache virtual host by specifying a 
 
 * Call script with the first argument being the desired domain name and the second argument being the desired web directory.
 
-Eg: sh apache_new_host.sh tomi.local.dev /home/tomi/code/test-site/www/
+Eg: sh apache-virtual-host-creator.sh tomi.local.dev /home/tomi/code/test-site/www/
